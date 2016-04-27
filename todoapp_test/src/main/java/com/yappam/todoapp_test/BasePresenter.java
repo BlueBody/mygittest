@@ -6,4 +6,5 @@ package com.yappam.todoapp_test;
  */
 public interface BasePresenter {
     void start();
+
 }
