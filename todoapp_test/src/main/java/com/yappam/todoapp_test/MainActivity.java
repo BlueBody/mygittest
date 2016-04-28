@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         SystemClock.currentThreadTimeMillis();
         System.out.print("ssss------------");
+        System.out.print("ssss------------");
     }
 }
